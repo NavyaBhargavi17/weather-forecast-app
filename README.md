@@ -6,8 +6,8 @@ The app provides current weather details and a **3-day forecast** with an eye-ca
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-app-name.streamlit.app  
-*(Replace with your deployed Streamlit link)*
+🔗 https://weather-forecast-app-3nuanzrrtkbja6s8nemxyk.streamlit.app/
+
 
 ---
 
